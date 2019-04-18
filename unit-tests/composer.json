@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "classmap": [
+            "../api/common",
+            "../api/controllers"
+        ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8"
+    }
+}
