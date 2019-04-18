@@ -13,3 +13,24 @@ HTML, BODY {
     max-width: 1000px;
     text-align: left;
 }
+
+.form {
+    display: block;
+    margin: 1em 0;
+    padding: 1em;
+    border: 1px solid #ccc;
+}
+
+.form__row {
+    display: block;
+    padding: 0;
+    margin: 1em 0;
+}
+
+.form-message {
+    display: block;
+    margin: 1em 0;
+    padding: 0;
+    font-style: italic;
+
+}
