@@ -1,0 +1,15 @@
+HTML, BODY {
+    display: block;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.main {
+    display: block;
+    margin: auto;
+    padding: 1em;
+    box-sizing: border-box;
+    max-width: 1000px;
+    text-align: left;
+}
